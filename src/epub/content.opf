@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-somerset-maugham/on-a-chinese-screen</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-10-18T19:49:51Z</dc:date>
+		<meta property="dcterms:modified">2021-10-18T19:49:51Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,13 +38,13 @@
 		<meta property="term" refines="#subject-2">sh2007101063</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">A collection of short vignettes describing the people and places visited by W. Somerset Maugham’s during his travels along the Yangtze River, China, 1919–20.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">&lt;i&gt;On a Chinese Screen&lt;/i&gt;, by &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;&lt;abbr&gt;W.&lt;/abbr&gt; Somerset Maugham&lt;/a&gt; was first published in 1922 by Heinemann Publishers, London. Its 58 short vignettes are based on Maugham’s travels along the Yangtze River from 1919 to 1920. Although later editions of the book added the subtitle “Sketches of Life in China,” there are actually only a few descriptions of the places he visited and the local Chinese people he met; rather, Maugham focuses on relaying his encounters with a range of Europeans living and working in the country. Maugham is quite critical of many of them, depicting their lack of interest in and sometimes disdain for the country and its people, except for the extent to which their careers and pockets could benefit. His sketches highlight the difficulties that most of the expatriates encountered from living in a strange culture and considering the life they left behind in the West.</meta>
+		<dc:description id="description">A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;i&gt;On a Chinese Screen&lt;/i&gt; was first published in 1922 by Heinemann Publishers, London. Its 58 short vignettes are based on &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; travels along the Yangtze River from 1919 to 1920. Although later editions of the book added the subtitle “Sketches of Life in China,” there are actually only a few descriptions of the places he visited and the local Chinese people he met; rather, Maugham focuses on relaying his encounters with a range of Europeans living and working in the country. Maugham is quite critical of many of them and their lack of interest in, and sometimes disdain, for the country and its people, except for the extent to which their careers and pockets could benefit. His sketches highlight the difficulties that many expatriates encounter while living in a foreign culture.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48788</dc:source>
 		<dc:source>https://books.google.com/books?id=iWI-AQAAIAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">51308</meta>
+		<meta property="se:reading-ease.flesch">68.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/On_a_Chinese_Screen</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_on-a-chinese-screen</meta>
 		<dc:creator id="author">W. Somerset Maugham</dc:creator>
@@ -75,6 +75,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
