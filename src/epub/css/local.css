@@ -53,7 +53,7 @@ section[epub|type~="dedication"] > *{
 	}
 
 	section[epub|type~="dedication"] > *{
-		margin: 0;
 		font-variant: small-caps;
+		margin: 0;
 	}
 }
