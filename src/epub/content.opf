@@ -35,7 +35,9 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007101063</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:subject">Travel</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short vignettes about the people and places W. Somerset Maugham encountered during his travels along the Yangtze River in 1919–20.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;On a Chinese Screen&lt;/i&gt; was first published in 1922 by Heinemann Publishers, London. Its 58 short vignettes are based on &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; travels along the Yangtze River from 1919 to 1920. Although later editions of the book added the subtitle “Sketches of Life in China,” there are actually only a few descriptions of the places he visited and the local Chinese people he met; rather, Maugham focuses on relaying his encounters with a range of Europeans living and working in the country. Maugham is quite critical of many of them and their lack of interest in, and sometimes disdain, for the country and its people, except for the extent to which their careers and pockets could benefit. His sketches highlight the difficulties that many expatriates encounter while living in a foreign culture.&lt;/p&gt;
